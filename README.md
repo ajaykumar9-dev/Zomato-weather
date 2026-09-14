@@ -91,37 +91,6 @@
 - npm (comes with Node.js)
 - Git
 
-### Quick Start
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/viveksharma2105/Zomato-weather.git
-cd Zomato-weather
-```
-
-2. **Install dependencies** (if any are added in the future)
-```bash
-npm install
-```
-
-3. **Set up environment variables**
-```bash
-# Create a .env file (optional, API key has fallback)
-echo "API_KEY=your_zomato_api_key_here" > .env
-echo "PORT=3000" >> .env
-```
-
-4. **Start the server**
-```bash
-npm start
-```
-
-5. **Open in browser**
-```
-http://localhost:3000
-```
-
----
 
 ## 🎮 Usage
 
